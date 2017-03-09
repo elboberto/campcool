@@ -1,0 +1,2 @@
+# campcool
+Entrepreneurship Project
